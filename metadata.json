@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Live Meeting",
+  "description": "A Zoom-style video conferencing application powered by Gemini Live API. Experience real-time multimodal interaction with AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
